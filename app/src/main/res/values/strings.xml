@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Soccer Match Finder</string>
+    <string name="lets_find_a_match">Lets find a match</string>
+    <string name="register">Register</string>
+    <string name="find_a_match">Find a Match</string>
+    <string name="error_need_registration">Please Register First</string>
+</resources>
